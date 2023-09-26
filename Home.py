@@ -10,9 +10,8 @@ def add_todo():
     functions.write_todos(todos)
 
 
-st.title("My Todo App")
+st.title("My ToDo App")
 st.subheader("This is a ToDo app designed by Tayler Edelen.")
-st.write("This app is to increase your productivity.")
 st.write("Enter new ToDos in the box below.")
 st.write("Click the checkbox of a ToDo to complete it.")
 
