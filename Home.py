@@ -11,9 +11,9 @@ def add_todo():
 
 
 st.title("My ToDo App")
-st.subheader("This is a ToDo app designed by Tayler Edelen.")
-st.write("Enter new ToDos in the box below.")
-st.write("Click the checkbox of a ToDo to complete it.")
+st.subheader("This is a ToDo app designed by Tayler Edelen")
+st.write("Enter new ToDos in the box below")
+st.write("Click the checkbox of a ToDo to complete it")
 
 for index, todo in enumerate(todos):
     checkbox = st.checkbox(todo, key=todo)
