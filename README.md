@@ -1,5 +1,2 @@
 # ToDoApp
-Minimalist ToDo App in Python
-Link to view: https://tayleredelen-todoapp-home-nkflmv.streamlit.app
-
-From the Udemy Python Mega Course 
+A distraction-free web app to help you focus on creating and completing tasks, witten in Python 
